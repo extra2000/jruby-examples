@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/extra2000/jruby-examples/compare/v1.0.0...v1.1.0) (2021-07-28)
+
+
+### Features
+
+* **sample-apps:** add Parsing YAML File ([c9ca041](https://github.com/extra2000/jruby-examples/commit/c9ca04163a7b48e8f130ae53a1ff9a3a342ffd45))
+
 ## 1.0.0 (2021-07-27)
 
 
